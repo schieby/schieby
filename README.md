@@ -11,7 +11,8 @@ Ich befinde mich derzeit in einer Umschulung zum Fachinformatiker für Anwendung
 ## Projekte
 
 ### [Erstes Code Projekt für die Umschulung]([https://github.com/IhrBenutzername/Projekt1](https://github.com/schieby/Projekt_Umschulung_DigitaleBestellungsaufnahme.git))
-Digitalisierung einer Bestellungsaufnahme in C# und MVC
+Mein erstes Projekt umfasst die Entwicklung einer digitalen Lösung für einen fiktiven Kunden, der bisher Bestellungen handschriftlich aufgenommen hat und diese nun digital auf mobilen Geräten abbilden möchte. 
+Das Projekt wird mit C# und dem MVC-Framework umgesetzt, wobei ich alle Phasen der Planung, Implementierung und Testphase eigenständig verantwortet habe.
 
 
 
